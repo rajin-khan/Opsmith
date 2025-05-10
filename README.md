@@ -21,7 +21,7 @@ Whether you're processing videos, generating summaries, managing your dev setup,
 
 ---
 
-## 🧰 Current Tools
+## Current Tools
 
 | Tool Name     | Description                                                                 | Status  |
 |--------------|-----------------------------------------------------------------------------|---------|
@@ -30,7 +30,7 @@ Whether you're processing videos, generating summaries, managing your dev setup,
 
 ---
 
-## 📦 Installation
+## Installation
 
 Each tool lives in its own subfolder or script file. To use a specific tool:
 
@@ -47,14 +47,14 @@ Follow the `README.md` inside each tool’s folder for setup and usage.
 
 ---
 
-## 💭 Why “Opsmith”?
+## Why “Opsmith”?
 
 A **smith** crafts with precision and care.
 **Opsmith** does the same — for your scripts, workflows, and developer life.
 
 ---
 
-## 🌟 Inspiration & Philosophy
+## Inspiration & Philosophy
 
 This project draws inspiration from:
 
@@ -64,7 +64,7 @@ This project draws inspiration from:
 
 ---
 
-## 🙌 Contributing
+## Contributing
 
 Have an idea or a neat tool you want to share?
 Pull requests are welcome!
@@ -74,7 +74,7 @@ Pull requests are welcome!
 
 ---
 
-## 📄 License
+## License
 
 MIT License.
 Use it, tweak it, ship it. Just don’t be evil.
