@@ -69,8 +69,8 @@ This project draws inspiration from:
 Have an idea or a neat tool you want to share?
 Pull requests are welcome!
 
-* See [`CONTRIBUTING.md`](./documentation/CONTRIBUTING.md) for guidelines
-* Please follow our [`Code of Conduct`](./documentation/CODE_OF_CONDUCT.md)
+* See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines
+* Please follow our [`Code of Conduct`](CODE_OF_CONDUCT.md)
 
 ---
 
