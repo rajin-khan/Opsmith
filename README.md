@@ -34,10 +34,14 @@ Whether you're processing videos, generating summaries, managing your dev setup,
 
 Each tool lives in its own subfolder or script file. To use a specific tool:
 
+</div>
+
 ```bash
 git clone https://github.com/rajin-khan/opsmith.git
 cd opsmith/<tool-folder>
 ````
+
+<div align="center">
 
 Follow the `README.md` inside each tool’s folder for setup and usage.
 
