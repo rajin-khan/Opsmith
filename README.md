@@ -23,10 +23,22 @@ Whether you're processing videos, generating summaries, managing your dev setup,
 
 ## Current Tools
 
-| Tool Name     | Description                                                                 | Status  |
-|--------------|-----------------------------------------------------------------------------|---------|
-| `VIDSUMMARY` | Extracts audio, transcribes it, and generates clean markdown summaries with cheatsheets.| ✅ Live |
-| `...`        | More tools to be added soon. Stay tuned.                                    | 🚧 WIP  |
+| Tool Name      | Description                                                                                                  | Status  |
+|----------------|--------------------------------------------------------------------------------------------------------------|---------|
+| `VIDSUMMARY`   | Extracts audio, transcribes it, and generates clean markdown summaries with cheatsheets.                     | ✅ Live |
+| `Docklit`      | Instantly generates optimized Dockerfiles and `.dockerignore` using smart detection of project types.         | 🚧 WIP  |
+| `Transcriptr`  | Batch transcribes audio files into clean, readable markdown using Groq Whisper.                              | 🚧 WIP  |
+| `ReadmeGen`    | Auto-generates detailed and elegant `README.md` files based on code structure and inline documentation.      | 🚧 WIP  |
+| `DataMask`     | Detects and redacts PII (emails, names, numbers) from documents and structured data using regex + LLMs.      | 🚧 WIP  |
+| `PortWatch`    | Monitors and kills processes blocking common dev ports like 3000 or 5000 with a single command.              | 🚧 WIP  |
+| `EnvGenie`     | Creates `.env.example` files from `.env`, optionally with inline type hints and comments from code.          | 🚧 WIP  |
+| `LLMNote`      | Converts unstructured notes or outlines into well-formatted markdown using LLMs.                             | 🚧 WIP  |
+| `CleanSweep`   | Scans and removes common temp, cache, and clutter files across dev environments (pip, npm, __pycache__).     | 🚧 WIP  |
+| `MetaPeek`     | Extracts metadata from media files, including EXIF, codec, audio info, and PDF properties.                   | 🚧 WIP  |
+| `SheetMind`    | Summarizes and explains spreadsheet data (CSV/XLSX) using LLMs to detect trends, outliers, and insights.     | 🚧 WIP  |
+| `Summarizr`    | Generates AI-powered summaries of entire folders of PDFs, markdown, or plain text.                           | 🚧 WIP  |
+| `CodeTeller`   | Analyzes codebases and outputs architecture diagrams and summaries via LLM interpretation.                   | 🚧 WIP  |
+| `...`          | More tools to be added soon. Stay tuned.                                                                      | 🚧 WIP  |
 
 ---
 
